@@ -1,0 +1,2 @@
+*.bin !text !filter !merge !diff
+*.bin filter=lfs diff=lfs merge=lfs -text
